@@ -68,8 +68,8 @@ QREX는 각기 다른 역할을 하는 **세 개의 주요 시스템**으로 구
 
 | 자료 구분 | 내용 요약 | 링크/위치 |
 | :--- | :--- | :--- |
-| **시스템 정의서** | 프로젝트의 전체적인 요약, 주요 기능, 개발 기간, 팀원 정보 | [시스템 정의서](../documents/시스템 정의서.txt) |
-| **기능적 요구사항** | 백엔드와 프론트엔드의 각 기능별 상세 요구사항 | [기능적 요구사항](../documents/기능적 요구사항.txt) |
+| **시스템 정의서** | 프로젝트의 전체적인 요약, 주요 기능, 개발 기간, 팀원 정보 | [시스템 정의서](<https://github.com/QRex404found/documents/blob/main/시스템 정의서.txt>) |
+| **기능적 요구사항** | 백엔드와 프론트엔드의 각 기능별 상세 요구사항 | [시스템 정의서](<https://github.com/QRex404found/documents/blob/main/기능적 요구사항.txt>) |
 | **데이터베이스(DB) 스키마** | USER, ANALYSIS, BOARD, COMMENT 테이블의 관계 및 컬럼 정보 | `[문서 링크 또는 파일 경로]` |
 | **회의록** | 팀 미팅 내용, 주요 결정 사항 및 진행 상황 기록 | [회의록 Repository](https://github.com/QRex404found/meeting_notes) |
 | **Figma UI/UX 디자인** | 사용자 인터페이스의 전체적인 레이아웃 및 디자인 | [Figma URL](https://embed.figma.com/design/nLM3q74eSdsI1o1IhpKZ7L/QREX?node-id=0-1&t=aedu6NYkxjKdHAXR-1&embed-host=notion&footer=false&theme=system) |
