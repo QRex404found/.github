@@ -5,8 +5,8 @@
 [![라이선스](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 <p align="center">
-  <img src="./photo/logo.png" width="48%" style="display: inline-block;" alt="QREX 로고: 돋보기에 QR 코드가 있는 디자인">
-  <img src="./photo/dino.png" width="48%" style="display: inline-block;" alt="QREX 마스코트: QR코드 알에서 깨어난 아기 공룡">
+  <img src="../photo/logo.png" width="48%" style="display: inline-block;" alt="QREX 로고: 돋보기에 QR 코드가 있는 디자인">
+  <img src="../photo/dino.png" width="48%" style="display: inline-block;" alt="QREX 마스코트: QR코드 알에서 깨어난 아기 공룡">
 </p>
 
 QREX는 의심스러운 QR 코드를 스캔하여 피싱 여부를 판별하는 서비스입니다. 
