@@ -16,7 +16,7 @@ QREX는 의심스러운 QR 코드를 스캔하여 피싱 여부를 판별하는 
 
 ## 💡 서비스 이름: QRex 선정 이유
 
-**QREX**는 'QR' 코드와 최강의 포식자 공룡인 **'T-Rex'**의 결합입니다. 
+**QREX**는 'QR' 코드와 최강의 포식자 공룡인 **T-Rex**의 결합입니다. 
 
 T-Rex가 먹이사슬의 모든 위협을 압도했듯, QREX는 교묘하게 숨어있는 QR 피싱 링크를 강력하게 찾아내 제거합니다. 이는 사용자에게 가장 안전한 디지털 경험을 제공하겠다는 저희의 약속을 담은 이름입니다.
 
@@ -68,7 +68,7 @@ QREX는 각기 다른 역할을 하는 **세 개의 주요 시스템**으로 구
 
 | 자료 구분 | 내용 요약 | 링크/위치 |
 | :--- | :--- | :--- |
-| **시스템 정의서** | 프로젝트의 전체적인 요약, 주요 기능, 개발 기간, 팀원 정보 | [시스템 정의서](<https://github.com/QRex404found/documents/blob/main/시스템 정의서.txt>) |
+| **시스템 정의서** | 프로젝트의 전체적인 요약, 주요 기능, 개발 기간, 팀원 정보 | [시스템 정의서](https://github.com/QRex404found/documents/blob/6183a878df738e3bfa4420ecde270933a308fdee/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%95%EC%9D%98%EC%84%9C.txt) |
 | **기능적 요구사항** | 백엔드와 프론트엔드의 각 기능별 상세 요구사항 | [기능적 요구사항](https://github.com/QRex404found/documents/blob/6183a878df738e3bfa4420ecde270933a308fdee/%EA%B8%B0%EB%8A%A5%EC%A0%81%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.txt) |
 | **데이터베이스(DB) 스키마** | USER, ANALYSIS, BOARD, COMMENT 테이블의 관계 및 컬럼 정보 | `[문서 링크 또는 파일 경로]` |
 | **회의록** | 팀 미팅 내용, 주요 결정 사항 및 진행 상황 기록 | [회의록 Repository](https://github.com/QRex404found/meeting_notes) |
