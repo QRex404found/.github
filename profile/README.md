@@ -87,7 +87,7 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 > * 게시판, 댓글, 분석 기록 CRUD API
 > * RAG 서버로의 실시간 데이터 동기화 (Async Event)
 
-### 🧠 [RAG & AI Agent 서버 (Spring AI) Repository](여기에_RAG_URL_입력)
+### 🧠 [RAG & AI Agent 서버 (Spring AI) Repository](https://github.com/QRex404found/RAG_Springai)
 > **지능형 분석 및 추론 엔진**
 > * **Spring AI** 기반의 RAG 파이프라인 및 벡터 스토어 구축
 > * **Function Calling**을 이용한 도구(Tools) 실행 및 제어
