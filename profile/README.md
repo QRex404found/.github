@@ -34,7 +34,7 @@ QREX는 **Google Safe Browsing API**, **실시간 도메인 정보**, **내부 �
 보안 문제에 있어 AI의 거짓말(Hallucination)은 치명적입니다.
 QREX 에이전트는 Static RAG(이용 가이드)와 Dynamic RAG(게시글/분석 DB)에 저장된 검증된 데이터만을 근거로 답변하며, 근거가 없을 경우 솔직하게 모른다고 답하여 정보의 투명성을 보장합니다.
 
-### 🔄 Tech Migration: FastAPI(https://github.com/QRex404found/RAG_Fastapi) → Spring AI
+### 🔄 Tech Migration: [FastAPI(https://github.com/QRex404found/RAG_Fastapi)] → Spring AI
 > 초기에는 Python(FastAPI)으로 RAG 서버를 구축했으나, 시스템의 통일성과 안정성을 위해 **Spring AI(Java)**로 마이그레이션했습니다.
 > * **단일 언어(Java) 환경:** 백엔드와 AI 서버의 언어를 통일하여 관리 복잡성 제거
 > * **Spring 생태계 연동:** Spring Security, DI 등 강력한 기능을 AI 파이프라인에 일관성 있게 적용
