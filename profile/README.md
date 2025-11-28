@@ -81,7 +81,7 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 > * 카메라 QR 스캔 및 갤러리 이미지 분석 UI 구현
 > * AI 에이전트와의 실시간 채팅 UI
 
-### 📡 [메인 백엔드 (Main Backend) Repository](여기에_백엔드_URL_입력)
+### 📡 [메인 백엔드 (Main Backend) Repository](https://github.com/QRex404found/backend)
 > **비즈니스 로직 및 데이터 관리**
 > * 사용자 인증/인가 (JWT, OAuth2)
 > * 게시판, 댓글, 분석 기록 CRUD API
