@@ -1,4 +1,4 @@
-# 🦖 QREX: Spring AI 기반 능동형 QR코드 피싱 방지 플랫폼
+# 🦖 QREX: RAG 기반 QR코드 피싱 방지 서비스
 
 [![팀명](https://img.shields.io/badge/Team-404%20FOUND-4C4C4C?style=flat-square)](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link)
 [![기술 스택](https://img.shields.io/badge/Stack-React%20%7C%20Spring%20Boot%20%7C%20Spring%20AI-6DB33F?style=flat-square&logo=spring)](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link)
@@ -33,6 +33,11 @@ QREX는 **Google Safe Browsing API**, **실시간 도메인 정보**, **내부 �
 ### 2. 할루시네이션 방지 (Fact-based Response)
 보안 문제에 있어 AI의 거짓말(Hallucination)은 치명적입니다.
 QREX 에이전트는 **Static RAG(이용 가이드)**와 **Dynamic RAG(게시글/분석 DB)**에 저장된 검증된 데이터만을 근거로 답변하며, 근거가 없을 경우 솔직하게 모른다고 답하여 정보의 투명성을 보장합니다.
+
+### 🔄 Tech Migration: FastAPI → Spring AI
+> 초기에는 Python(FastAPI)으로 RAG 서버를 구축했으나, 시스템의 통일성과 안정성을 위해 **Spring AI(Java)**로 마이그레이션했습니다.
+> * **단일 언어(Java) 환경:** 백엔드와 AI 서버의 언어를 통일하여 관리 복잡성 제거
+> * **Spring 생태계 연동:** Spring Security, DI 등 강력한 기능을 AI 파이프라인에 일관성 있게 적용
 
 ---
 
