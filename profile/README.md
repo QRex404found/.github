@@ -44,6 +44,7 @@ QREX 에이전트는 **Static RAG(이용 가이드)**와 **Dynamic RAG(게시글
 | **상호작용** | **AI Agent 서비스** | 단순 챗봇이 아닌 **행동하는 에이전트**입니다. 자연어로 **"최근 분석 기록 제목 바꿔줘"**, **"이 글 삭제해줘"** 등의 명령을 수행하고 DB를 제어합니다. |
 | **실시간성** | **동적 데이터 반영** | 사용자가 작성한 최신 게시글이나 방금 수행한 분석 결과를 벡터 스토어에 실시간으로 동기화하여 AI가 즉시 인지합니다. |
 | **커뮤니티** | **피싱 사례 공유** | 사용자들이 피싱 사례를 공유하고 댓글로 소통하며 집단 지성을 통해 피해를 예방합니다. |
+| **개인화** | **기록 관리** | 사용자가 검사한 QR 코드의 기록을 저장하고 언제든지 다시 확인할 수 있습니다. |
 | **접근성** | **반응형 웹 디자인** | PC, 태블릿, 모바일 등 모든 디바이스에서 최적화된 UI/UX를 제공합니다. |
 
 ---
@@ -57,8 +58,9 @@ QREX 에이전트는 **Static RAG(이용 가이드)**와 **Dynamic RAG(게시글
 | :--- | :--- | :--- |
 | **UI** | 최수연, 심연우 | Figma |
 | **Frontend** | 심연우, 최수연 | **React.js, shadcn/ui, Tailwind CSS** |
-| **Backend** | 김여민, 심연우 | **Spring Boot, JPA, MySQL, JWT, OAuth2** |
-| **RAG & Agent** | 김여민 | **Spring AI, Google Gemini, Vector Store** |
+| **Backend** | 김여민, 심연우 | **Spring Boot, JPA, JWT, OAuth2** |
+| **DB** | 최수연, 김여민 | MySQL |
+| **RAG & Agent** | 김여민 | **Spring AI, Google Gemini, Chroma DB** |
 
 ---
 
