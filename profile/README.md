@@ -75,7 +75,7 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 
 ### 👇 각 시스템의 상세 코드와 문서는 아래 링크를 클릭하세요.
 
-### 🖥️ [프론트엔드 (Frontend) Repository](여기에_프론트엔드_URL_입력)
+### 🖥️ [프론트엔드 (Frontend) Repository](https://github.com/QRex404found/frontend)
 > **사용자 경험(UX) 중심 인터페이스**
 > * React 기반의 SPA(Single Page Application) 구조
 > * 카메라 QR 스캔 및 갤러리 이미지 분석 UI 구현
