@@ -100,6 +100,7 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 | :--- | :--- | :--- |
 | **시스템 정의서** | 프로젝트의 전체적인 요약, 주요 기능, 개발 기간, 팀원 정보 | [시스템 정의서](https://github.com/QRex404found/documents/blob/b530d33e989be9eb29846f038d3f6a0566173246/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%95%EC%9D%98%EC%84%9C.md) |
 | **시스템 아키텍처** | 사용자, 프론트, 백, 분석 서버, DB 간의 상호작용 다이어그램 | [시스템 아키텍처](https://github.com/QRex404found/documents/blob/b530d33e989be9eb29846f038d3f6a0566173246/system_architecture.jpg) |
+| **요구사항 정의서** | 서비스의 목적 및 범위, 기능적/비기능적 요구사항, 인터페이스 정의 등 프로젝트 개발의 기준이 되는 상세 명세서 | [요구사항 정의서](https://github.com/QRex404found/documents/blob/b530d33e989be9eb29846f038d3f6a0566173246/system_architecture.jpg) |
 | **기능적 요구사항** | 백엔드와 프론트엔드의 각 기능별 상세 요구사항 | [기능적 요구사항](https://github.com/QRex404found/documents/blob/3df098751e2b3dc922981fa9b1210423626b738a/%EA%B8%B0%EB%8A%A5%EC%A0%81%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.md) |
 | **DB 스키마 (ERD)** | USER, ANALYSIS, BOARD, COMMENT 테이블의 관계 및 컬럼 정보 | [ERD](https://github.com/QRex404found/documents/blob/b530d33e989be9eb29846f038d3f6a0566173246/db/db_final.png) |
 | **회의록** | 팀 미팅 내용, 주요 결정 사항 및 진행 상황 기록 | [회의록 Repository](https://github.com/QRex404found/meeting_notes) |
