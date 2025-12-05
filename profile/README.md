@@ -149,7 +149,8 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 
 | 자료 구분 | 내용 요약 | 링크/위치 |
 | :--- | :--- | :--- |
-| **시스템 정의서** | 프로젝트의 전체적인 요약, 주요 기능, 개발 기간, 팀원 정보 | [시스템 정의서](https://github.com/QRex404found/documents/blob/b530d33e989be9eb29846f038d3f6a0566173246/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%95%EC%9D%98%EC%84%9C.md) |
+| **최종 결과보고서** | 기획 의도, 시스템 설계, RAG 구현 과정 및 프로젝트 최종 성과를 망라한 종합 보고서 | [최종 결과보고서](https://github.com/QRex404found/documents/tree/9344402b75cba7696f8aad594b2e013b1642a1a6/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%95%EC%9D%98%EC%84%9C) |
+| **시스템 정의서** | 프로젝트의 전체적인 요약, 주요 기능, 개발 기간, 팀원 정보 | [시스템 정의서](https://github.com/QRex404found/documents/tree/9344402b75cba7696f8aad594b2e013b1642a1a6/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%95%EC%9D%98%EC%84%9C) |
 | **시스템 아키텍처** | 사용자, 프론트, 백, 분석 서버, DB 간의 상호작용 다이어그램 | [시스템 아키텍처](https://github.com/QRex404found/documents/blob/b530d33e989be9eb29846f038d3f6a0566173246/system_architecture.jpg) |
 | **요구사항 정의서** | 서비스의 목적 및 범위, 기능적/비기능적 요구사항, 인터페이스 정의 등 프로젝트 개발의 기준이 되는 상세 명세서 | [요구사항 정의서](https://github.com/QRex404found/documents/tree/9344402b75cba7696f8aad594b2e013b1642a1a6/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C) |
 | **기능적 요구사항** | 백엔드와 프론트엔드의 각 기능별 상세 요구사항 | [기능적 요구사항](https://github.com/QRex404found/documents/blob/3df098751e2b3dc922981fa9b1210423626b738a/%EA%B8%B0%EB%8A%A5%EC%A0%81%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.md) |
