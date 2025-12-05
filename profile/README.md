@@ -85,7 +85,7 @@ QREX 에이전트는 Static RAG(이용 가이드)와 Dynamic RAG(게시글/분�
 | **Epic & Story** | '회원 관리', 'RAG 분석' 등 큰 기능을 Epic으로 정의하고, 이를 세부 Task로 쪼개어 관리 |
 | **Kanban Board** | `To Do` → `In Progress` → `Done`의 상태 관리를 통해 팀원들의 업무 진행 상황 실시간 공유 |
 | **Burndown Chart** | 스프린트 기간 내 소멸 차트를 확인하며 일정 지연 리스크를 사전에 관리 |
-![Jira Project Board](https://github.com/user-attachments/assets/지라_보드_캡쳐_이미지_경로)
+![Jira Project Board](https://github.com/QRex404found/documents/blob/9344402b75cba7696f8aad594b2e013b1642a1a6/Jira.png)
 
 ---
 
