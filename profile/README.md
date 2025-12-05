@@ -106,3 +106,5 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 | **회의록** | 팀 미팅 내용, 주요 결정 사항 및 진행 상황 기록 | [회의록 Repository](https://github.com/QRex404found/meeting_notes) |
 | **Figma 디자인** | 사용자 인터페이스의 전체적인 레이아웃 및 디자인 | [Figma URL](https://embed.figma.com/design/nLM3q74eSdsI1o1IhpKZ7L/QREX?node-id=0-1&t=aedu6NYkxjKdHAXR-1&embed-host=notion&footer=false&theme=system) |
 | **Notion 페이지** | 프로젝트의 모든 상세 자료가 정리된 Notion 페이지 | [Notion URL](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link) |
+| **최종발표 PPT** | 프로젝트의 최종발표를 위한 문제 정의부터 솔루션 도출, 아키텍처 설계 및 시연 결과 발표 자료 | [PPT](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link) |
+
