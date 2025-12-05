@@ -72,7 +72,7 @@ QREX 에이전트는 Static RAG(이용 가이드)와 Dynamic RAG(게시글/분�
 | **Frontend** | 심연우, 최수연 | **React.js, shadcn/ui, Tailwind CSS** |
 | **Backend** | 김여민, 심연우 | **Spring Boot, JPA, JWT, OAuth2** |
 | **DB** | 최수연, 김여민 | MySQL |
-| **RAG & Agent** | 김여민 | **Spring AI, Google Gemini, Chroma DB** |
+| **RAG & Agent** | 김여민 | **Spring AI, Google Gemini, Docker, Chroma DB** |
 
 ---
 
