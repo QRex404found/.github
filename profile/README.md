@@ -2,7 +2,6 @@
 
 [![팀명](https://img.shields.io/badge/Team-404%20FOUND-4C4C4C?style=flat-square)](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link)
 [![기술 스택](https://img.shields.io/badge/Stack-React%20%7C%20Spring%20Boot%20%7C%20Spring%20AI-6DB33F?style=flat-square&logo=spring)](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link)
-[![라이선스](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 <p align="center">
   <img src="../photo/logo.png" width="48%" style="display: inline-block;" alt="QREX 로고">
