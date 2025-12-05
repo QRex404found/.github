@@ -76,6 +76,19 @@ QREX 에이전트는 Static RAG(이용 가이드)와 Dynamic RAG(게시글/분�
 
 ---
 
+## 🏃 협업 및 프로젝트 관리 (Agile Workflow)
+
+저희 팀은 **Jira**를 도입하여 애자일(Agile) 방법론을 기반으로 프로젝트를 진행했습니다. 주먹구구식 개발을 지양하고, 하루 단위의 **스프린트(Sprint)**를 통해 계획적인 개발과 빠른 피드백 반영을 실천했습니다.
+
+| 워크플로우 | 설명 |
+| :--- | :--- |
+| **Epic & Story** | '회원 관리', 'RAG 분석' 등 큰 기능을 Epic으로 정의하고, 이를 세부 Task로 쪼개어 관리 |
+| **Kanban Board** | `To Do` → `In Progress` → `Done`의 상태 관리를 통해 팀원들의 업무 진행 상황 실시간 공유 |
+| **Burndown Chart** | 스프린트 기간 내 소멸 차트를 확인하며 일정 지연 리스크를 사전에 관리 |
+![Jira Project Board](https://github.com/user-attachments/assets/지라_보드_캡쳐_이미지_경로)
+
+---
+
 ## 🚀 향후 발전 방향 (Future Roadmap)
 
 단순한 피싱 탐지를 넘어, 금융과 생활 전반을 아우르는 종합 보안 플랫폼으로의 확장을 목표로 합니다.
