@@ -44,7 +44,7 @@ QREX 에이전트는 Static RAG(이용 가이드)와 Dynamic RAG(게시글/분�
 
 > **"QREX가 실제 QR 피싱을 탐지하고 방어하는 모습을 확인하세요."**
 
-[![QREX 시연 영상](https://img.youtube.com/vi/유튜브영상ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=유튜브영상ID)
+[![QREX 시연 영상](https://github.com/QRex404found/documents/blob/cdeb7d3a850174777804814b2630dfdccfa26818/QREX_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)](https://github.com/QRex404found/documents/blob/cdeb7d3a850174777804814b2630dfdccfa26818/QREX_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
 
 ---
 
@@ -150,7 +150,7 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 
 | 자료 구분 | 내용 요약 | 링크/위치 |
 | :--- | :--- | :--- |
-| **최종 결과보고서** | 기획 의도, 시스템 설계, RAG 구현 과정 및 프로젝트 최종 성과를 망라한 종합 보고서 | [.hwp](https://github.com/QRex404found/documents/tree/9344402b75cba7696f8aad594b2e013b1642a1a6/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%95%EC%9D%98%EC%84%9C) [.pdf](https://github.com/QRex404found/documents/tree/9344402b75cba7696f8aad594b2e013b1642a1a6/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%95%EC%9D%98%EC%84%9C) |
+| **최종 결과보고서** | 기획 의도, 시스템 설계, RAG 구현 과정 및 프로젝트 최종 성과를 망라한 종합 보고서 | [.hwp](https://github.com/QRex404found/documents/blob/cdeb7d3a850174777804814b2630dfdccfa26818/2025%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C-13.hwp) [.pdf](https://github.com/QRex404found/documents/blob/cdeb7d3a850174777804814b2630dfdccfa26818/2025%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C-13.pdf) |
 | **시스템 정의서** | 프로젝트의 전체적인 요약, 주요 기능, 개발 기간, 팀원 정보 | [.hwp](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%95%EC%9D%98%EC%84%9C-13.hwp) [.pdf](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%95%EC%9D%98%EC%84%9C-13.pdf) |
 | **시스템 아키텍처** | 사용자, 프론트, 백, 분석 서버, DB 간의 상호작용 다이어그램 | [system architecture.jpg](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/system_architecture_final.jpg) |
 | **요구사항 정의서** | 서비스의 목적 및 범위, 기능적/비기능적 요구사항, 인터페이스 정의 등 프로젝트 개발의 기준이 되는 상세 명세서 | [.hwp](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C-13.hwp) [.pdf](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C-13.pdf) |
