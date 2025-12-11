@@ -160,7 +160,7 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 | **중간 결과보고서** | 기획 의도, 시스템 설계, RAG 구현 과정 및 프로젝트 중간결과를 망라한 중간 보고서 | [중간 결과보고서](https://github.com/QRex404found/documents/blob/3df098751e2b3dc922981fa9b1210423626b738a/%EA%B8%B0%EB%8A%A5%EC%A0%81%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.md) |
 | **Figma 디자인** | 사용자 인터페이스의 전체적인 레이아웃 및 디자인 | [Figma URL](https://embed.figma.com/design/nLM3q74eSdsI1o1IhpKZ7L/QREX?node-id=0-1&t=aedu6NYkxjKdHAXR-1&embed-host=notion&footer=false&theme=system) |
 | **Notion 페이지** | 프로젝트의 모든 상세 자료가 정리된 Notion 페이지 | [Notion URL](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link) |
-| **최종발표 자료** | 프로젝트의 최종발표를 위한 문제 정의부터 솔루션 도출, 아키텍처 설계 및 시연 결과 자료 | [PPT](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link) |
+| **최종발표 자료** | 프로젝트의 최종발표를 위한 문제 정의부터 솔루션 도출, 아키텍처 설계 및 시연 결과 자료 | [PPT.pptx](https://github.com/QRex404found/documents/blob/89b472510a004f6a618f1458e62dbf821cb1dff3/13%ED%8C%80_404FOUND.pptx) [PPT.pdf](https://github.com/QRex404found/documents/blob/89b472510a004f6a618f1458e62dbf821cb1dff3/13%ED%8C%80_404FOUND.pdf) |
 
 ---
 
