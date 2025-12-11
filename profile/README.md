@@ -78,7 +78,7 @@ QREX 에이전트는 Static RAG(이용 가이드)와 Dynamic RAG(게시글/분�
 
 ## 🏃 협업 및 프로젝트 관리 (Agile Workflow)
 
-저희 팀은 **Jira**를 도입하여 애자일(Agile) 방법론을 기반으로 프로젝트를 진행했습니다. 주먹구구식 개발을 지양하고, 하루 단위의 **스프린트(Sprint)**를 통해 계획적인 개발과 빠른 피드백 반영을 실천했습니다.
+저희 팀은 **Jira**를 도입하여 애자일(Agile) 방법론을 기반으로 프로젝트를 진행했습니다. 비체계적인 개발을 지양하고, 하루 단위의 **스프린트(Sprint)**를 통해 계획적인 개발과 빠른 피드백 반영을 실천했습니다.
 
 | 워크플로우 | 설명 |
 | :--- | :--- |
@@ -160,7 +160,7 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 | **중간 결과보고서** | 기획 의도, 시스템 설계, RAG 구현 과정 및 프로젝트 중간결과를 망라한 중간 보고서 | [.hwp](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/2025%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B0%9C%EB%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp) [.pdf](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/2025%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B0%9C%EB%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) |
 | **Figma 디자인** | 사용자 인터페이스의 전체적인 레이아웃 및 디자인 | [Link to Figma](https://embed.figma.com/design/nLM3q74eSdsI1o1IhpKZ7L/QREX?node-id=0-1&t=aedu6NYkxjKdHAXR-1&embed-host=notion&footer=false&theme=system) |
 | **Notion 페이지** | 프로젝트의 모든 상세 자료가 정리된 Notion 페이지 | [Link to Notion](https://www.notion.so/QRex-20e89adac92c802b9355fedbfbbcac9f?source=copy_link) |
-| **최종발표 자료** | 프로젝트의 최종발표를 위한 문제 정의부터 솔루션 도출, 아키텍처 설계 및 시연 결과 자료 | [PPT.pptx](https://github.com/QRex404found/documents/blob/89b472510a004f6a618f1458e62dbf821cb1dff3/13%ED%8C%80_404FOUND.pptx) [PPT.pdf](https://github.com/QRex404found/documents/blob/89b472510a004f6a618f1458e62dbf821cb1dff3/13%ED%8C%80_404FOUND.pdf) |
+| **최종발표 자료** | 프로젝트의 최종발표를 위한 문제 정의부터 솔루션 도출, 아키텍처 설계 및 시연 결과 자료 | [PPT.pptx](https://github.com/QRex404found/documents/blob/509f697c52314f0c45280f0e765b81b13d40577c/13%ED%8C%80_404FOUND.pptx) [PPT.pdf](https://github.com/QRex404found/documents/blob/509f697c52314f0c45280f0e765b81b13d40577c/13%ED%8C%80_404FOUND.pdf) |
 
 ---
 
