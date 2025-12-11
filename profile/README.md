@@ -43,8 +43,8 @@ QREX 에이전트는 Static RAG(이용 가이드)와 Dynamic RAG(게시글/분�
 ## 🎬 프로젝트 시연 (Demo)
 
 > **"QREX가 실제 QR 피싱을 탐지하고 방어하는 모습을 확인하세요."**
-
-[![QREX 시연 영상](https://github.com/QRex404found/documents/blob/cdeb7d3a850174777804814b2630dfdccfa26818/QREX_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)](https://github.com/QRex404found/documents/blob/cdeb7d3a850174777804814b2630dfdccfa26818/QREX_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
+![KakaoTalk_Video_2025-12-11-15-03-31 (1) (1)](https://github.com/user-attachments/assets/ea385dfa-7911-4799-8d41-8eb106521f1c)
+[QREX 시연 영상](https://github.com/QRex404found/documents/blob/cdeb7d3a850174777804814b2630dfdccfa26818/QREX_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)]
 
 ---
 
@@ -155,6 +155,7 @@ QREX는 기능별로 모듈화된 3개의 핵심 시스템으로 구성되어 �
 | **시스템 아키텍처** | 사용자, 프론트, 백, 분석 서버, DB 간의 상호작용 다이어그램 | [system architecture.jpg](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/system_architecture_final.jpg) |
 | **요구사항 정의서** | 서비스의 목적 및 범위, 기능적/비기능적 요구사항, 인터페이스 정의 등 프로젝트 개발의 기준이 되는 상세 명세서 | [.hwp](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C-13.hwp) [.pdf](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C-13.pdf) |
 | **기능적 요구사항** | 백엔드와 프론트엔드의 각 기능별 상세 요구사항 | [기능적 요구사항](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/%EA%B8%B0%EB%8A%A5%EC%A0%81%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.md) |
+| **시연 영상** | 실제 사용 흐름과 시스템 동작을 한 번에 보여주는 데모 영상 | [github](https://github.com/QRex404found/documents/blob/cdeb7d3a850174777804814b2630dfdccfa26818/QREX_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4) [Youtube](https://youtu.be/EqNdX0LYMUk) |
 | **DB 스키마 (ERD)** | USER, ANALYSIS, BOARD, COMMENT 테이블의 관계 및 컬럼 정보 | [ERD.png](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/db/db.png) |
 | **팀 활동 일지** | 팀 미팅 내용, 주요 결정 사항 및 진행 상황 기록 | [회의록 Repository](https://github.com/QRex404found/meeting_notes) |
 | **중간 결과보고서** | 기획 의도, 시스템 설계, RAG 구현 과정 및 프로젝트 중간결과를 망라한 중간 보고서 | [.hwp](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/2025%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B0%9C%EB%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp) [.pdf](https://github.com/QRex404found/documents/blob/f33c9a6139ba9b4424be80861eb36ae7c1eaee81/2025%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B0%9C%EB%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) |
