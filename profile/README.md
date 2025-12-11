@@ -44,6 +44,7 @@ QREX 에이전트는 Static RAG(이용 가이드)와 Dynamic RAG(게시글/분�
 
 > **"QREX가 실제 QR 피싱을 탐지하고 방어하는 모습을 확인하세요."**
 ![KakaoTalk_Video_2025-12-11-15-03-31 (1) (1)](https://github.com/user-attachments/assets/ea385dfa-7911-4799-8d41-8eb106521f1c)
+https://youtu.be/EqNdX0LYMUk
 
 ---
 
